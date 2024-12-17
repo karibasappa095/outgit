@@ -1,2 +1,5 @@
 swafsgs
+<<<<<<< HEAD
 jwdWGQ
+=======
+>>>>>>> b6fd58a (p2)
